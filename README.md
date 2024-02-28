@@ -1,5 +1,6 @@
 # 📚 Plus(+2) Syllabus Mastery:
-🚀 Welcome to Plus(+2) Syllabus Mastery! 📚 Ace your exams with this interactive repository designed for effective learning. Dive into detailed explanations, practice resources, and expertly curated content covering all subjects and chapters of your Class 11 syllabus. Boost your understanding, sharpen your skills, and ensure success on exam day. Let's turn learning into achievement! 💡📈 #Class12Success #ExamPrep #EffectiveLearning
+
+🚀 Elevate your learning with Plus(+2) Syllabus Mastery! Explore detailed resources for Class 11 subjects - Compulsory English, Accountancy, Economics, and more. Sharpen your skills for exam success. 📚💡 #Class11Success #ExamPrep #EffectiveLearning
 
 ## Class 11 Subjects
 
