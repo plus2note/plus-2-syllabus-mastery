@@ -26,7 +26,7 @@ Studying for Plus Two exams can be challenging, and having access to high-qualit
 
 ## Class 12 Subjects
 
-1. Compulsory English
+1. [Compulsory English ] (https://github.com/plus2note/english-xii)
 2. Compulsory Nepali
 3. Accounting
 4. Business Studies
